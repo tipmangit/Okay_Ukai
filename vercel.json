@@ -74,10 +74,6 @@
              "dest": "/public/uploads/PANTS 1 FRONT.jpg"
         },
         {
-             "src": "assets/PANTS 2 FRONT.jpg",
-             "dest": "/public/uploads/PANTS 2 FRONT.jpg"
-        },
-        {
              "src": "assets/Dresses.jpg",
              "dest": "/public/assets/images/Dresses.jpg"
         },
