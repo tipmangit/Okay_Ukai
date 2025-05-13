@@ -11,7 +11,71 @@
         },
         {
              "src": "style/style.css",
-             "dest": "/public/style/style.css"
+             "dest": "/public/css/style.css"
+        },
+        {
+             "src": "assets/B2 ITEM 1 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 1 FRONT.jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 2 FRONT .jpg",
+             "dest": "/public/uploads/B2 ITEM 2 FRONT .jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 3 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 3 FRONT.jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 5 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 5 FRONT.jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 6 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 6 FRONT.jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 7 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 7 FRONT.jpg"
+        },
+        {
+             "src": "assets/B2 ITEM 8 FRONT.jpg",
+             "dest": "/public/uploads/B2 ITEM 8 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 1 FRONT.jpg",
+             "dest": "/public/uploads/ITEM 1 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 2 FRONT.jpg",
+             "dest": "/public/uploads/ITEM 2 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 3 FRONT .jpg",
+             "dest": "/public/uploads/ITEM 3 FRONT .jpg"
+        },
+        {
+             "src": "assets/ITEM 4 FRONT.jpg",
+             "dest": "/public/uploads/ITEM 4 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 5 FRONT.jpg",
+             "dest": "/public/uploads/ITEM 5 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 6 FRONT.jpg",
+             "dest": "/public/uploads/ITEM 6 FRONT.jpg"
+        },
+        {
+             "src": "assets/ITEM 7 FRONT .jpg",
+             "dest": "/public/uploads/ITEM 7 FRONT .jpg"
+        },
+        {
+             "src": "assets/PANTS 1 FRONT.jpg",
+             "dest": "/public/uploads/PANTS 1 FRONT.jpg"
+        },
+        {
+             "src": "assets/PANTS 2 FRONT.jpg",
+             "dest": "/public/uploads/PANTS 2 FRONT.jpg"
         },
         
     }
